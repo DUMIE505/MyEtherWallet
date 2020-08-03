@@ -105,7 +105,7 @@
     "bip39": "3.0.2",
     "bitbox02-api": "0.4.1",
     "bootstrap-vue": "2.13.1",
-    "codecov": "3.6.5",
+    "codecov": "3.7.1",
     "copy-webpack-plugin": "5.1.1",
     "detectrtc": "1.4.0",
     "eslint": "7.0.0",
