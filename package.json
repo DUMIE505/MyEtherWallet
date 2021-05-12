@@ -39,7 +39,7 @@
     "apollo-cache-inmemory": "1.6.6",
     "apollo-client": "2.6.9",
     "apollo-link-ws": "1.0.20",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "core-js": "3.6.5",
     "graphql": "14.6.0",
     "graphql-tag": "2.10.3",
